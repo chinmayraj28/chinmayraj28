@@ -1,7 +1,7 @@
 <h1 align="center">Hey! I'm Chinmay Raj</h1>
 <h3 align="center">A student from Banglore, India</h3>
 
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chinmayraj28&label=Profile%20views&color=0e75b6&style=flat" alt="chinmayraj28" /> </p>
 
