@@ -1,5 +1,5 @@
 ![Header](https://i.ibb.co/rZmZgXh/github-header-image.png)
-<h3 align="left">A student from Banglore, India</h3>
+<h3 align="left">A student from Bangalore, India</h3>
 
 <!-- <img align="right" alt="coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"> -->
 
