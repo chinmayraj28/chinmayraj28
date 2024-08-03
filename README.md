@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 👨‍💻 All of my projects are available at [https://github.com/chinmayraj28](https://github.com/chinmayraj28)
+- 👨‍💻 All of my projects are available at [https://github.com/chinmayraj28](https://github.com/chinmayraj28?tab=repositories)
 
 - 📫 How to reach me **chinmayraj0527@gmail.com**
 
