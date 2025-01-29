@@ -8,6 +8,9 @@
 - 👨‍💻 All of my projects are available at [https://github.com/chinmayraj28/repositories](https://github.com/chinmayraj28?tab=repositories)
 
 - 📫 How to reach me **chinmayraj0527@gmail.com**
+  
+- 🌐 Portfolio
+  **[chinmayraj.tech](https://chinmayraj.tech)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
