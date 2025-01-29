@@ -1,4 +1,4 @@
-![Header]([https://i.ibb.co/rZmZgXh/github-header-image.png](https://media.licdn.com/dms/image/v2/D4D16AQFBfpDd5QWkpw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1738167533949?e=1743638400&v=beta&t=fMJLrh0je3D1aQUYuskGDYVZFPxlOGv0kE3UCaAhHAE))
+![Header](https://i.postimg.cc/gc3RLc9z/Black-Elegant-Modern-Personal-Linked-In-Banner.png)
 <h3 align="left">A student from Bangalore, India</h3>
 
 <!-- <img align="right" alt="coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"> -->
