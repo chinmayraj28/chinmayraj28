@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chinmayraj28&label=Profile%20views&color=0e75b6&style=flat" alt="chinmayraj28" /> </p>
 
-- 🌱 I’m currently learning **Java**
-
 - 👨‍💻 All of my projects are available at [https://github.com/chinmayraj28/repositories](https://github.com/chinmayraj28?tab=repositories)
 
 - 📫 How to reach me **chinmayraj0527@gmail.com**
