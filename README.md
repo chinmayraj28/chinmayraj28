@@ -1,4 +1,4 @@
-![Header](https://postimg.cc/gc3RLc9z)
+![Header](https://i.postimg.cc/gc3RLc9z/Black-Elegant-Modern-Personal-Linked-In-Banner.png)
 <h3 align="left">A student from Bangalore, India</h3>
 
 <!-- <img align="right" alt="coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"> -->
