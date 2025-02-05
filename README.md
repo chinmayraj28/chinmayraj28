@@ -5,12 +5,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chinmayraj28&label=Profile%20views&color=0e75b6&style=flat" alt="chinmayraj28" /> </p>
 
+- 🌐 Portfolio
+  **[www.chinmayraj.tech](https://chinmayraj.tech)**
+
+- 📁 Dash
+  **[www.dash-it.in](https://dash-it.in)**
+
 - 👨‍💻 All of my projects are available at [https://github.com/chinmayraj28/repositories](https://github.com/chinmayraj28?tab=repositories)
 
 - 📫 How to reach me **chinmayraj0527@gmail.com**
-  
-- 🌐 Portfolio
-  **[chinmayraj.tech](https://chinmayraj.tech)**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
