@@ -1,5 +1,5 @@
 ![Header](https://i.ibb.co/qYqT14yG/Black-Elegant-Modern-Personal-Linked-In-Banner-1.png)
-<h3 align="left">A student from Bangalore, India</h3>
+<h3 align="left">A student studying in King's College London.</h3>
 
 <!-- <img align="right" alt="coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"> -->
 
