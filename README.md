@@ -11,8 +11,8 @@
 - 🧭 Paper Compass
   **[www.papercompass.xyz](https://papercompass.xyz)**
 
-- 📚 Study Buddy
-  **[www.study-buddy.fun](https://study-buddy.fun)**
+- 💵 TrackRack
+  **[www.trackrack.online](https://trackrack.online)**
 
 - 📁 Dash
   **[www.dash-it.in](https://dash-it.in)**
