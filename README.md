@@ -14,27 +14,40 @@ Computer Science at **King's College London**
 
 ---
 
-**Selected work**
+## Selected work
 
-| | |
-|---|---|
-| [mergent.chinmayraj.tech](https://mergent.chinmayraj.tech) | Mergent — autonomous AI software engineer for GitHub |
-| [resume-builder](https://github.com/chinmayraj28/resume-builder) | AI resume editor with live preview & PDF export |
-| [yt-ripper](https://github.com/chinmayraj28/yt-ripper) · [live](https://ytmp3.ddns.net) | YouTube → MP3/MP4 with precision trimming |
-| [expenses-tracker](https://github.com/chinmayraj28/expenses-tracker) · [live](https://trackrack.online) | TrackRack — expense tracking with Open Banking & AI |
-| [papercompass.xyz](https://papercompass.xyz) | Paper Compass — Cambridge past paper navigator |
-| [dash-it.in](https://dash-it.in) | Dash — fast, secure file sharing |
+<table>
+<tr>
+<th align="left">Project</th>
+<th align="left">About</th>
+</tr>
+<tr>
+<td><strong><a href="https://mergent.chinmayraj.tech">Mergent</a></strong><br><sub>mergent.chinmayraj.tech</sub></td>
+<td>Autonomous AI software engineer for GitHub</td>
+</tr>
+<tr>
+<td><strong><a href="https://github.com/chinmayraj28/resume-builder">Resume Builder</a></strong><br><sub>github.com/chinmayraj28/resume-builder</sub></td>
+<td>AI resume editor with live preview & PDF export</td>
+</tr>
+<tr>
+<td><strong><a href="https://github.com/chinmayraj28/yt-ripper">YT Ripper</a></strong><br><sub>github.com/chinmayraj28/yt-ripper</sub></td>
+<td>YouTube → MP3/MP4 with precision trimming</td>
+</tr>
+<tr>
+<td><strong><a href="https://trackrack.online">TrackRack</a></strong><br><sub><a href="https://github.com/chinmayraj28/expenses-tracker">repo</a> · trackrack.online</sub></td>
+<td>Expense tracking with Open Banking & AI categorisation</td>
+</tr>
+<tr>
+<td><strong><a href="https://papercompass.xyz">Paper Compass</a></strong><br><sub>papercompass.xyz</sub></td>
+<td>Cambridge past paper navigator · 150+ users</td>
+</tr>
+<tr>
+<td><strong><a href="https://dash-it.in">Dash</a></strong><br><sub>dash-it.in</sub></td>
+<td>Fast, secure file sharing across devices</td>
+</tr>
+</table>
 
 ---
-
-## How I build
-
-```text
-01  Find the sharpest version of the problem
-02  Prototype the interaction, not just the interface
-03  Engineer for reality—latency, failure, scale, and humans
-04  Ship, observe, refine
-```
 
 ## Toolbox
 
