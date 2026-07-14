@@ -14,7 +14,7 @@ Computer Science at **King's College London**
 
 ---
 
-## Selected work
+## Projects
 
 <table>
 <tr>
