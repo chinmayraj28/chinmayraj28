@@ -1,7 +1,5 @@
 <div align="center">
 
-<sup>BUILDING AT THE EDGE OF SOFTWARE × INTELLIGENCE</sup>
-
 # Chinmay Raj Nataraj
 
 ### I turn ambitious ideas into software people actually use.
